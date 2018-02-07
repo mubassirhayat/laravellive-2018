@@ -12,7 +12,7 @@
             </a>
             <!-- cd-timeline-img -->
             <div class="cd-timeline-content shadow-lg border-t-2 border-indigo-light">
-                <h2>Freek Van der Herten <span class="ml-10 text-grey"><a href="https://twitter.com/freekmurze" class="text-grey"><i class="fa fa-twitter "></i></a></h2>
+                <h2>Freek Van der Herten </h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
                  <span class="cd-date">10:00 AM</span>
             </div>
@@ -25,7 +25,7 @@
             </a>
             <!-- cd-timeline-img -->
             <div class="cd-timeline-content shadow-lg border-t-2 border-indigo-light">
-                <h2>Shawn McCool <span class="ml-10 text-grey"><a href="https://twitter.com/ShawnMcCool" class="text-grey"><i class="fa fa-twitter "></i></a></span></h2>
+                <h2>Shawn McCool </h2>
                 <div class="pull-right"></div>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
                 <span class="cd-date">11:00 AM</span>
@@ -39,7 +39,7 @@
             </a>
             <!-- cd-timeline-img -->
             <div class="cd-timeline-content shadow-lg border-t-2 border-indigo-light">
-                <h2>Hannes Van De Vreken <span class="ml-10 text-grey"><a href="https://twitter.com/hannesvdvreken" class="text-grey"><i class="fa fa-twitter "></i></a></h2>
+                <h2>Hannes Van De Vreken </h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
                 <span class="cd-date">12:00 AM</span>
             </div>
@@ -52,7 +52,7 @@
             </a>
             <!-- cd-timeline-img -->
             <div class="cd-timeline-content shadow-lg border-t-2 border-indigo-light">
-                <h2>Vaibhavraj Roham <span class="ml-10 text-grey"><a href="https://twitter.com/vrajroham" class="text-grey"><i class="fa fa-twitter "></i></a></h2>
+                <h2>Vaibhavraj Roham </h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
                 <span class="cd-date">1:00 PM</span>
             </div>
@@ -65,7 +65,7 @@
             </a>
             <!-- cd-timeline-img -->
             <div class="cd-timeline-content shadow-lg border-t-2 border-indigo-light">
-                <h2>Sarthak Shrivastava <span class="ml-10 text-grey"><a href="https://twitter.com/BitFumes" class="text-grey"><i class="fa fa-twitter "></i></a></h2>
+                <h2>Sarthak Shrivastava </h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
                 <span class="cd-date">2:00 PM</span>
             </div>
@@ -78,7 +78,7 @@
             </a>
             <!-- cd-timeline-img -->
             <div class="cd-timeline-content shadow-lg border-t-2 border-indigo-light">
-                <h2>Neo Ighodaro <span class="ml-10 text-grey"><a href="https://twitter.com/neoighodaro" class="text-grey"><i class="fa fa-twitter "></i></a></h2>
+                <h2>Neo Ighodaro </h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
                 <span class="cd-date">3:00 PM</span>
             </div>
